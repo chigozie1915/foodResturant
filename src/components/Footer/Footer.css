@@ -1,0 +1,24 @@
+.write-up{
+    font-size: 1rem;
+}
+.icon{
+    margin-top: 3px;
+}
+.i{
+    font-size: 60px;
+    cursor: pointer; 
+    margin-right: 2px;
+    color:goldenrod;
+}
+.i:hover{
+    color:aqua;
+    transform: translateX(5px);
+    transition:all 400ms ;
+
+}
+
+
+
+@media (max-width:600px){
+
+}
